@@ -1,0 +1,8 @@
+[roof_tl_br,False];[roof_t_br,False];[roof_t_br,False];[roof_t_br,False];[roof_t_br,False];[roof_tr_br,False];[trail,True];[roof_tl_br,False];[roof_t_br,False];[roof_tr_br,False]
+[roof_bl_br,False];[roof_b_br,False];[roof_b_br,False];[roof_b_br,False];[roof_b_br,False];[roof_br_br,False];[trail,True];[roof_bl_br,False];[roof_b_br,False];[roof_br_br,False]
+[window,False];[door,True];[window,False];[window,False];[door,True];[window,False];[trail,True];[window,False];[door,True];[window,False]
+[trail,True];[trail,True];[trail,True];[trail,True];[trail,True];[trail,True];[trail,True];[trail,True];[trail,True];[trail,True]
+[roof_tl_br,False];[roof_t_br,False];[roof_tr_br,False];[grass,True];[grass,True];[grass,True];[trail,True];[plain_grass,True];[plain_grass,True];[trail,True]
+[roof_bl_br,False];[roof_b_br,False];[roof_br_br,False];[grass,True];[fern,False];[grass,True];[trail,True];[fountain_tl,False];[fountain_tr,False];[trail,True]
+[window,False];[door,True];[window,False];[grass,True];[grass,True];[grass,True];[trail,True];[fountain_bl,False];[fountain_br,False];[trail,True]
+[trail,True];[trail,True];[trail,True];[trail,True];[trail,True];[trail,True];[trail,True];[trail,True];[trail,True];[trail,True]

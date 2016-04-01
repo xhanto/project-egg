@@ -1,0 +1,10 @@
+<graph>
+<line imgs="roof_tl_r,roof_t_r,roof_t_r,roof_t_r,roof_t_r,roof_tr_r,trail,roof_tl_r,roof_t_r,roof_tr_r" cons="False,False,False,False,False,False,True,False,False,False"/>
+<line imgs="roof_bl_r,roof_b_r,roof_b_r,roof_b_r,roof_b_r,roof_br_r,trail,roof_bl_r,roof_b_r,roof_br_r" cons="False,False,False,False,False,False,True,False,False,False"/>
+<line imgs="window,door,window,window,door,window,trail,window,door,window" cons="False,True,False,False,True,False,True,False,True,False"/>
+<line imgs="trail,trail,trail,trail,trail,trail,trail,trail,trail,trail"/>
+<line imgs="roof_tl_r,roof_t_r,roof_tr_r,grass,grass,grass,trail,plain_grass,plain_grass,trail"/>
+<line imgs="roof_bl_r,roof_b_r,roof_br_r,grass,fern,grass,trail,fountain_tl,fountain_tr,trail"/>
+<line imgs="window,door,window,grass,grass,grass,trail,fountain_bl,fountain_br,trail"/>
+<line imgs="trail,trail,trail,trail,trail,trail,trail,trail,trail,trail"/>
+</graph>
