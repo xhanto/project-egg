@@ -1,0 +1,8 @@
+grass_br,dirt_b,dirt_b,dirt_b,dirt_b,grass_bl,trail,trail,green,grass
+dirt_r,lake,lake,lake,lake,dirt_l,trail,grass_1,pod,flowers
+dirt_r,lake,lake,lake,lake,dirt_l,grass_bl,grass_b,grass_b,plain_grass
+dirt_r,lake,lake,lake,lake,dirt_l,roof_tl_br,chimney,roof_tr_br,grass_l
+grass_tr,dirt_t,dirt_t,dirt_t,dirt_t,grass_tl,roof_bl_br,roof_b_br,roof_br_br,grass_l
+flowers,roof_br,roof_br,roof_br,flowers,plain_grass,window,door,window,grass_l
+grass,window,window,window,grass_bl,green,flowers,trail,flowers,plain_grass
+wall_b_r,wall_b_r,wall_b_r,wall_end_br_r,dirt,dirt,wall_end_bl_r,wall_b_r,wall_b_r,wall_b_r

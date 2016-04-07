@@ -1,7 +1,7 @@
 import cv2
-
+filep = raw_input("Enter file path + name (no ext): ")
 res = "segmentataion"
-img = cv2.imread('village.png')
+img = cv2.imread(filep+".png")
 rows,cols,channels = img.shape
 for k in range(rows/16):
     for l in range(cols/16):

@@ -1,0 +1,8 @@
+wall_t_r,wall_t_r,wall_t_r,wall_end_tr_r,dirt_pebble,dirt_pebble,wall_end_tl_r,wall_t_r,wall_t_r,wall_t_r
+plain_grass,green,flowers,grass_tr,dirt_pebble,dirt_pebble,grass_l,tree_tl,tree_tr,grass_t,grass_t
+grass_1,pod,green,plain_grass,trail,trail,grass_br,tree_bl,tree_br,green,flowers
+flowers,plain_grass,grass_1,trail,trail,border_tl,border_t,border_tr,grass_l,grass_1
+trail,trail,trail,trail,trail,border_l,wrap,border_r,grass_l,green
+trail,fountain_tl,fountain_tr,trail,trail,border_bl,stairs_out,border_br,grass_l,flowers,
+grass_r,fountain_bl,fountain_br,grass_l,trail,trail,trail,trail,trail,trail
+grass_1,grass_t,grass_t,green,flowers,plain_grass,trail,trail,grass_1,green
